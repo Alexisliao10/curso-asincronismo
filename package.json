@@ -10,5 +10,8 @@
     "javascript"
   ],
   "author": "Alexis Liao <Alexisliao10@hotmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
