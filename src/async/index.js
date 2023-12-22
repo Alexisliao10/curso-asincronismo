@@ -15,3 +15,8 @@ const anotherFn = async () => {
 console.log("Before");
 anotherFn();
 console.log("After");
+
+// Before
+// After
+// Async!
+// Hello!
